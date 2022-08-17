@@ -143,4 +143,4 @@ As per the data, the cattle dairy production has been increased by the passing y
 
 ### Explain and Interpret
 
-I chose Element, Area and Year subgroups from the data set. The reason for choosing them is there importance in analysis and also tried to analysis using two variables to know the dependency of values on different variables. So I have done Area and Element wise analysis, Year and Element wise analysis, Element-wise analysis, Area-wise analysis and Year-wise analysis. Conclusion to my analysis would be Europe has the highest of the cattle dairy and the production of the dairy is increasing gradually as by the year. 
+I chose Element, Area and Year subgroups from data set. The reason for choosing them is there importance in analysis and also tried to analysis using two variables to know the dependency of values on different variables. So I have done Area and Element wise analysis, Year and Element wise analysis, Element-wise analysis, Area-wise analysis and Year-wise analysis. Conclusion to my analysis would be Europe has the highest of the cattle dairy and the production of the dairy is increasing gradually as by the year. 
